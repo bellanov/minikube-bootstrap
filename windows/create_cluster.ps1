@@ -4,7 +4,7 @@
 
 # Cluster Configuration
 $clusterName = "hello-world"
-$nodes = 2
+$nodes = 3
 $driver = "docker"
 
 # Create Cluster
