@@ -1,4 +1,6 @@
+#
 # Create a Minikube Cluster.
+#
 
 # Cluster Configuration
 $clusterName = "hello-world"
