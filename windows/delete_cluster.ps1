@@ -3,7 +3,7 @@
 #
 
 # Cluster Configuration
-$clusterName = "hello-world"
+$clusterName = "gke-1"
 
 # Delete a Minikube cluster
 minikube delete -p $clusterName
