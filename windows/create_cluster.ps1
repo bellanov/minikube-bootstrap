@@ -3,7 +3,7 @@
 #
 
 # Cluster Configuration
-$clusterName = "hello-world"
+$clusterName = "gke-1"
 $nodes = 3
 $driver = "docker"
 
