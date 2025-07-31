@@ -2,6 +2,7 @@
 
 Bootstrap local development with minikube.
 
-*MacOS* - Create and manager clusters in a **MacOS** environment.
-
-*Windows* - Create and manager clusters in a **Windows** environment.
+| Scripts         | Description |
+| -----------           | ----------- |
+| *Unix*            | Summary of steps required to set up a **Linux** or **MacOS** machine for task completion. |
+| *Windows*            | Summary of steps required to set up a **Windows** machine for task completion. |
